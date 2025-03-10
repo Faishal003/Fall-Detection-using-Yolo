@@ -41,7 +41,7 @@ Creating a virtual environment ensures that the project dependencies are isolate
   ```
 
 # 2. Install Dependencies
- Make sure you have Python version 3.10.x or upper 👈<br>
+ Make sure you have Python version `3.10.x or upper` 👈<br>
 ```
 pip install -r requirements.txt
 ```
