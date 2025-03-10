@@ -1,4 +1,4 @@
-# Fall-Detection-using-Yolo
+# Fall-Detection-using-Yolo-with-Raspberry-Pi-also
 
 This is a fall detection system designed to detect human falls in real-time using a Raspberry Pi, a camera, and computer vision techniques. The system uses YOLOv5 for human detection, calculates motion parameters (speed, angle, aspect ratio), and triggers actions such as playing a sound and sending an email alert when a fall is detected.
 
